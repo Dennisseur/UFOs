@@ -12,22 +12,22 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 ### Resources:
 
-•	Data Sources:
+#### Data Sources:
 
-  ufo_startercode.js
+ • ufo_startercode.js
 
-  index.html
+ • index.html
 
-  data.js
+ • data.js
 
 
-•	Software:
+#### Software:
 
-  JavaScript
+ • JavaScript
 
-  HTML
+ • HTML
 
-  VS Code
+ • VS Code
 
 ## Overview of the Analysis:
 
@@ -40,12 +40,9 @@ The app also had the event listner updated to detect changes.
 
 ## Results
 
-•	A
-
-•	T
-
-•	W
-
+Changes allow users to have additonal filters to be able to refine thier searches. 
 
 ## Summary
+
+
 
