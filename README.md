@@ -41,8 +41,3 @@ The app also had the event listner updated to detect changes.
 ## Results
 
 Changes allow users to have additonal filters to be able to refine thier searches. 
-
-## Summary
-
-
-
